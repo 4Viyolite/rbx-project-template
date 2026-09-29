@@ -1,0 +1,7 @@
+{
+    "name": "my-project-test",
+    "tree": {
+        "$className": "DataModel"
+        // replace this comment with container services and the path to your scripts including tests
+    }
+}

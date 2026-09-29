@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "globIgnorePaths": [
+        "**/*.spec.lua" // ignore test scripts
+    ],
+    "tree": {
+        "$className": "DataModel"
+        // replace this comment with container services and the path to your scripts
+    }
+}
