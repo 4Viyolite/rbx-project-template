@@ -4,7 +4,7 @@ set -e
 
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
-CYAN='\e[36m'
+CYAN='\e[0;36m'
 NC='\033[0m'
 
 echo -e "${CYAN}|> Adding source remote to your git repo...${NC}"
