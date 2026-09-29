@@ -1,0 +1,12 @@
+[package]
+name = "your-name/my-project"
+description = "This is my example project!"
+license = "MIT"
+authors = ["your-name <your-name@example.com>"]
+version = "1.0.0"
+
+repository = "https://github.com/your-name/my-project"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
