@@ -28,3 +28,5 @@ git push --force-with-lease
 echo -e "${GREEN}|> Done!${NC}"
 
 echo "Template setup is complete."
+
+rm -- "$0"
